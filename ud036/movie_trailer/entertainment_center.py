@@ -5,3 +5,4 @@ silicon_valley = media.Movie('Silicon Valley',
                              'https://en.wikipedia.org/wiki/File:Silicon_valley_title.png',
                              'https://www.youtube.com/watch?v=AOYHABzlpyQ')
 print(silicon_valley.storyline)
+silicon_valley.show_trailer()
